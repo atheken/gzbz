@@ -6,7 +6,7 @@
       'sources': [ 'compress.cc' ],
       'link_settings': {
           'libraries': [
-              '-lz'
+              '-lbz2'
           ]
       },
       'cflags': [
